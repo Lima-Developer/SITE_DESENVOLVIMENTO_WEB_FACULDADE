@@ -27,7 +27,7 @@ header{
 }
 
 header.rolagem{
-    background-color: #fff;
+    background-color: #f4f6ef;
     padding: 20px 4%;
 }
 
@@ -1288,6 +1288,10 @@ footer{
 
     #edit-codes .hero-cards{
         max-width: 350px;
+    }
+
+    .flex-slider{
+        height: 70vh;
     }
 
     .navigation-auto,
